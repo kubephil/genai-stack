@@ -1,0 +1,3 @@
+deployment_dir: /home/admin/deployment
+letsencrypt_dir: /home/admin/deployment/letsencrypt
+docker_compose_file: docker-compose.yml
